@@ -37,11 +37,10 @@ I ship full mobile apps with:
 ### 📲 Apps Built:
 | App | Description |
 |-----|-------------|
-| AI Chatbot App | Full-stack AI chat app using GPT API |
-| Productivity Tracker | Tasks, reminders, offline sync |
-| Health Logger | Calorie & hydration tracker w/ charts |
-| Delivery UI Clone | Beautiful delivery booking UI |
-| E-Commerce MVP | Product listing, cart, Firebase backend |
+| Habit-App | Track habits with ease! Habity offers habit management, progress bars, streaks, 2FA, Sync Account, notifications, privacy controls, and a Help Center. |
+| MoneyMate | Global Exchange Pro is a React Native app designed for accurate, real-time currency exchange rates covering 180+ countries. |
+| First-oil-app UI| I've developed OilHub, Pakistan's 1st engine oil selling app, using React Native, React Navigation, Tailwind CSS, JavaScript & TypeScript. 3 screens |
+| foodApp UI | The foodApp repository is designed as a food delivery app built using React Native and Expo. This app offers an intuitive user interface, featuring scrollable icons for food categories. |
 
 ---
 
@@ -58,7 +57,7 @@ I’m not here to talk — I’m here to build what you need.
 - 📲 Need a mobile MVP? I ship apps
 - 💰 Want to convert boring data into products? Let’s go
 
-📩 qrf2@survivalmode.com  
+📩 Uzairqrf@gmail.com  
 📎 [My GitHub Projects](https://github.com/Qrf2?tab=repositories)
 
 ---
