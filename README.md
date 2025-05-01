@@ -45,9 +45,9 @@ I ship full mobile apps with:
 ---
 
 ## 🛠️ Tools I Use
-- Python, Streamlit, LangChain, OpenAI SDK
-- React Native, Expo, Firebase
-- Git, Notion, Postman, VS Code, Tailwind
+- Python, Streamlit, LangChain, OpenAI SDK, Deepseek
+- React Native, Expo, Firebase 
+- Git, Notion, Postman, VS Code, Tailwind ,Redux
 
 ---
 
