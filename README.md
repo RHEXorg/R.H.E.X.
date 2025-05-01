@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I’m Uzair
+I build AI tools in a locked room while the world burns outside.  
 
-<!--
-**Qrf2/Qrf2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 What I Do  
+- ✍️ AI Prompt Engineering  
+- 🤖 Chatbots, Resume Tools, Data AI  
+- 💼 Freelance-ready Python Apps  
+- 💻 Custom AI Systems for YouTube, Excel, Resume, Websites  
 
-Here are some ideas to get you started:
+## 🧠 Projects I’ve Built  
+| Project | Description |
+|--------|-------------|
+| Resume Optimizer | Turns resume into job-specific resume |
+| YouTube Summarizer | Auto creates summary & chapters |
+| Excel AI Insights | Upload Excel → AI insights |
+| Website Chatbot | Train AI on your site, embed anywhere |
+| ... | 4 more projects live on GitHub |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Contact Me  
+- Twitter / X: [Your handle]  
+- Fiverr: [Your Fiverr]  
+- Email: qrf2@survivalmode.com  
