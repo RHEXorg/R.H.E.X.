@@ -1,5 +1,5 @@
 Qrf2 – AI Engineer × React Native Developer
-Locked in. Zero excuses.
+
 8+ AI tools built in 7 days using Python, GPT APIs, and React Native.
 
 🤖 AI Automation & Prompt Engineering
