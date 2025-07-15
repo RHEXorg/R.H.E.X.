@@ -1,4 +1,4 @@
-Qrf2 – AI Engineer × React Native Developer
+Qɾϝ2 – AI Eɳɠιɳҽҽɾ × Rҽαƈƚ Nαƚιʋҽ Dҽʋҽʅσρҽɾ
 
 8+ AI tools built in 7 days using Python, GPT APIs, and React Native.
 
