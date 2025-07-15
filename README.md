@@ -1,68 +1,69 @@
-# 🔥 Qrf2 – AI Engineer × React Native Dev × Digital Soldier
+Qrf2 – AI Engineer × React Native Developer
+Locked in. Zero excuses.
+8+ AI tools built in 7 days using Python, GPT APIs, and React Native.
 
-Locked in one room.  
-No excuses.  
-Built 8+ tools in 7 days using Python, GPT, DeepSeek, and React Native.  
+🤖 AI Automation & Prompt Engineering
+I specialize in building deploy-ready AI tools powered by:
 
----
+🧠 GPT (OpenAI, DeepSeek, Claude, OpenRouter APIs)
 
-## 🤖 AI Prompt Engineering / GPT Automation
-I build tools using:
-- 🧠 OpenAI / DeepSeek / Claude / OpenRouter APIs
-- 🛠️ Python + Streamlit (UI)
-- 📈 Excel, PDF, Web scraping, Data automation
-- 📦 Deploy-ready AI mini apps
+⚙️ Python + Streamlit for fast, interactive UIs
 
-### 🔥 AI Projects Built:
-| Project | What It Does |
-|--------|---------------|
-| Excel AI Insights | Upload Excel → get smart summary & chart ideas |
-| Resume Optimizer | Tailors your resume to any job description |
-| YouTube Auto Summarizer | Generates chapters + summary from transcripts |
-| Website Chatbot | Custom-trained chatbot that understands your site |
-| PDF QA Assistant | Ask questions to your uploaded documents |
-| AI Blog Writer | Keywords → Full SEO-ready content |
-| Feedback Analyzer | Analyze user pain points from reviews |
-| AI Lead Magnet Tools | Turn data into usable client tools |
+📄 Data automation: PDFs, Excel, Web scraping, Reports
 
----
+Recent AI Projects:
 
-## 📱 React Native & Expo Development
-I ship full mobile apps with:
-- ✅ React Native + Expo (Managed & Bare)
-- ✅ NativeWind + Tailwind + Clean UI
-- ✅ Firebase / Stripe / REST APIs / GPT inside apps
-- ✅ Android + iOS + Expo Web support
+| Project                  | Description                                        |
+| ------------------------ | -------------------------------------------------- |
+| **Excel AI Insights**    | Upload Excel → Smart summaries + chart suggestions |
+| **Resume Optimizer**     | Match your resume to any job description with AI   |
+| **YouTube Summarizer**   | Chapters + summaries from transcripts in seconds   |
+| **Website Chatbot**      | Train a chatbot on your website content            |
+| **AI Blog Writer**       | Keywords → SEO-optimized long-form content         |
+| **Feedback Analyzer**    | Discover user pain points from reviews             |
 
-### 📲 Apps Built:
-| App | Description |
-|-----|-------------|
-| Habit-App | Track habits with ease! Habity offers habit management, progress bars, streaks, 2FA, Sync Account, notifications, privacy controls, and a Help Center. |
-| MoneyMate | Global Exchange Pro is a React Native app designed for accurate, real-time currency exchange rates covering 180+ countries. |
-| First-oil-app UI| I've developed OilHub, Pakistan's 1st engine oil selling app, using React Native, React Navigation, Tailwind CSS, JavaScript & TypeScript. 3 screens |
-| foodApp UI | The foodApp repository is designed as a food delivery app built using React Native and Expo. This app offers an intuitive user interface, featuring scrollable icons for food categories. |
 
----
 
-## 🛠️ Tools I Use
-- Python, Streamlit, LangChain, OpenAI SDK, Deepseek
-- React Native, Expo, Firebase 
-- Git, Notion, Postman, VS Code, Tailwind ,Redux
+📱 React Native & Mobile Development
+I build modern, production-ready mobile apps using:
 
----
+✅ React Native + Expo (Managed & Bare Flow)
 
-## 📬 Work With Me
-I’m not here to talk — I’m here to build what you need.
-- 💼 Hire me for AI tools
-- 📲 Need a mobile MVP? I ship apps
-- 💰 Want to convert boring data into products? Let’s go
+✅ NativeWind + Tailwind for responsive, scalable UIs
 
-📩 Uzairqrf@gmail.com  
-📎 [My GitHub Projects](https://github.com/Qrf2?tab=repositories)
+✅ Firebase / Stripe / REST APIs / GPT integrations
 
----
+✅ Android + iOS + Web (Expo) support
 
-## 💀 Cold World.
-In a world this broken, my skills are my currency.  
-I'm not looking for luck. I'm building my escape.
+ Recent Mobile Apps:
+App	Description
+| App             | Description                                                          |
+| --------------- | -------------------------------------------------------------------- |
+| **Habity**      | Full-featured habit tracker with streaks, 2FA, Sync, and Help Center |
+| **MoneyMate**   | Currency converter app with real-time global exchange data           |
+| **OilHub (UI)** | Pakistan’s 1st engine oil selling app interface                      |
+| **foodApp UI**  | Scrollable food categories and modern food delivery layout           |
 
+
+⚙️ Tools & Stack
+AI: Python, Streamlit, LangChain, OpenAI SDK, DeepSeek
+
+Mobile: React Native, Expo, Firebase, Tailwind, Redux
+
+Dev: Git, VS Code, Postman, Notion
+
+💼 Work With Me
+I don’t just build ideas — I turn them into functional products.
+
+🧠 Need an AI tool? I’ll build it.
+
+📲 Want a mobile MVP? I’ll ship it.
+
+📊 Got data? I’ll convert it into tools clients love.
+
+📩 Uzairqrf@gmail.com
+🔗 GitHub – Qrf2
+🖇️ Lets Connect - https://www.linkedin.com/in/uzair-qrf-815ba026a/
+
+
+Let’s build something that speaks for itself.
