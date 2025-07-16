@@ -53,7 +53,7 @@ Mobile: React Native, Expo, Firebase, Tailwind, Redux
 Dev: Git, VS Code, Postman, Notion
 
 💼 Work With Me
-I don’t just build ideas — I turn them into functional products.
+
 
 🧠 Need an AI tool? I’ll build it.
 
