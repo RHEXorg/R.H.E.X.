@@ -62,7 +62,9 @@ I don’t just build ideas — I turn them into functional products.
 📊 Got data? I’ll convert it into tools clients love.
 
 📩 Uzairqrf@gmail.com
+
 🔗 GitHub – Qrf2
+
 🖇️ Lets Connect - https://www.linkedin.com/in/uzair-qrf-815ba026a/
 
 
