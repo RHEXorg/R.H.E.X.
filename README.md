@@ -1,3 +1,5 @@
+![Mobile App Showcase](https://github.com/user-attachments/assets/5686ba3d-1912-459d-8e80-e9be64523af6)
+
 <h1 align="center">Hi 👋, I'm Qɾϝ2</h1>
 <h3 align="center">AI Engineer × React Native Developer</h3>
 
