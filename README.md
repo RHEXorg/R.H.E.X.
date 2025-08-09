@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="mailto:Uzairqrf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-silver?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 
 | Project                                     | Description                                                                                             | Tech Stack                                     |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| **[DevScope](https://github.com/Qrf2/Devscope)** | An AI-powered developer assistant designed to streamline coding workflows, debug code, and generate documentation directly within your environment. | `Python`, `GPT API`, `Streamlit`, `LangChain` |
+| **[DevScope](https://github.com/Qrf2/Devscope)** | An AI-powered developer assistant designed to streamline coding workflows, debug code, and generate documentation directly within your environment. | `OCR`, `GPT`, `Openrouter`, `Tailwind` |
 
 
 ### 🤖 Recent AI Tools
