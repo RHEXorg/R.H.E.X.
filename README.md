@@ -11,6 +11,9 @@
   <a href="mailto:Uzairqrf@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-silver?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
+  <a href="https://uzairqrf.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Website-ff9800?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
@@ -111,7 +114,8 @@
 <p>
   - 🔭 I’m currently working on <b><a href="https://github.com/Qrf2?tab=repositories">App Development & AI Automation Tools</a></b>.<br/>
   - 🌱 I’m currently learning <b>LangChain, DeepSeek APIs, Advanced React Native animations, Stripe, and IoT</b>.<br/>
-  - 👨‍💻 All of my projects are available at <b><a href="https://github.com/Qrf2?tab=repositories">github.com/Qrf2</a></b>.
+  - 👨‍💻 All of my projects are available at <b><a href="https://github.com/Qrf2?tab=repositories">github.com/Qrf2</a></b>.<br/>
+  - 🌐 My portfolio: <b><a href="https://uzairqrf.netlify.app/">uzairqrf.netlify.app</a></b>
 </p>
 
 ## 📊 My GitHub Stats
@@ -134,13 +138,11 @@ I'm actively seeking new opportunities and love collaborating on innovative proj
 - 📊 **Got complex data?** I’ll turn it into a tool your clients will love.
 
 <p align="left">
-  <a href="mailto:Uzairqrf@gmail.com">
-    <b>📩 Email Me</b>
-  </a>
+  <a href="mailto:Uzairqrf@gmail.com"><b>📩 Email Me</b></a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/uzair-qrf-815ba026a/">
-    <b>🖇️ Connect on LinkedIn</b>
-  </a>
+  <a href="https://www.linkedin.com/in/uzair-qrf-815ba026a/"><b>🖇️ Connect on LinkedIn</b></a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://uzairqrf.netlify.app/"><b>🌐 View My Portfolio</b></a>
 </p>
 
 <h3 align="left">You can also find me on:</h3>
