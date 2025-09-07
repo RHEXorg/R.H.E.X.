@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-  I build intelligent, user-centric applications by bridging the gap between powerful AI and intuitive mobile interfaces. <br />
-  My passion lies in transforming complex data and workflows into deploy-ready tools that people love to use. <br />
+  Building intelligent, user-centric applications that bridge the gap between powerful AI and intuitive mobile interfaces. <br />
+  Focused on transforming complex data and workflows into deploy-ready tools that people love to use. <br />
   <br />
-  ⚡ <b>Fun Fact:</b> I built 8+ AI tools in 7 days — and still slept like a baby.
+
 </p>
 
 ---
