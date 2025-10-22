@@ -2,16 +2,16 @@
 <h3 align="center">AI Engineer × React Native Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/uzair-qrf-815ba026a/" target="_blank">
+  <a href="www.linkedin.com/in/uzair-farooq-7968b2312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Qrf2" target="_blank">
+  <a href="https://github.com/RHEXorg/R.H.E.X." target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:Uzairqrf@gmail.com">
+  <a href="mailto:rhexorg@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-silver?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://uzairqrf.netlify.app/" target="_blank">
+  <a href="https://rhex.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Website-ff9800?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
 </p>
