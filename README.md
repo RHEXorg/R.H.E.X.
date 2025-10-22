@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/uzair-farooq-7968b2312" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin/" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/RHEXorg/R.H.E.X." target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
