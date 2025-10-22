@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Hi, we are R.H.E.X.</h1>
+<h1 align="center">Hi 👋, we are R.H.E.X.</h1>
 <h3 align="center">AI Engineer × React Native Developer</h3>
 
 <p align="center">
