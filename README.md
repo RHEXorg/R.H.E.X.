@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer × React Native Developer</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/uzair-farooq-7968b2312" target="_blank">
+  <a href="https://www.linkedin.com/in/uzair-farooq-7968b2312/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin/" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/RHEXorg/R.H.E.X." target="_blank">
